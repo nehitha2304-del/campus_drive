@@ -1,0 +1,9 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "functions": {
+    "app.py": {
+      "includeFiles": "frontend/**",
+      "excludeFiles": "{backend/venv/**,backend/.agents/**,backend/screenshots/**,backend/design/**,backend/api.png,frontend/stitch_college_event_portal.zip}"
+    }
+  }
+}

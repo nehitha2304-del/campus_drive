@@ -1,0 +1,8 @@
+backend/.env
+backend/venv/
+backend/.agents/
+backend/screenshots/
+backend/design/
+backend/api.png
+frontend/stitch_college_event_portal.zip
+.git/
